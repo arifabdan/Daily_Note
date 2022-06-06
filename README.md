@@ -1,2 +1,2 @@
 # Daily_Note
-Min SDK 32 (Android 12)\
+Min SDK 32 (Android 12)
